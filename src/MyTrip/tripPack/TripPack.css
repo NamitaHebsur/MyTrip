@@ -1,0 +1,14 @@
+h2{
+    padding: 20px;
+    font-size: 60px;
+}
+table thead{
+    background-color: rgb(192, 67, 67);
+    text-align: center;
+    font-size: 30px;
+}
+table tbody{
+    background-color: rgb(199, 114, 114);
+    text-align: center;
+    font-size: 25px;
+}

@@ -1,0 +1,23 @@
+h3{
+    font-size: 60px;
+    margin-left: 150px;
+}
+.about-section{
+    padding: 50px;
+    text-align: left;
+    background-color:  rgb(158, 158, 241);;
+    color:black;
+    font-size: 25px;
+    margin-left: 150px;
+}
+.row{
+    padding: 50px;
+}
+.img-cir{
+    height: 250px;
+    width: 250px;
+    margin-left: 600px;
+    border-radius: 50%;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}

@@ -1,0 +1,26 @@
+h2{
+    text-align: center;
+}
+.container{
+    display:grid;
+	grid-template-columns: 1fr 1fr 1fr;
+    margin:1px;
+    padding:10px;
+}
+.p1{
+    width:370px;
+    height: 200px;
+    margin-top: 30px;
+    margin-left: 55px;
+}
+.p1:hover{
+    opacity: 0.5;
+}
+.p2{
+    color:rgb(15, 14, 14);
+    padding: 2px;
+    font-size:20px;
+    margin-left: 55px;
+    background-color: rgb(99, 96, 97);
+    width:370px;
+}
